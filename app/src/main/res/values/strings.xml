@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Schedule</string>
+
+    <string name="breakfast">Breakfast</string>
+    <string name="make_breakfast">make a breakfast</string>
+    <string name="time_breakfast">8-00</string>
+    <string name="task">task</string>
+    <string name="description">description</string>
+    <string name="time">time</string>
+    <string name="importance">importance\ great-1, low-0</string>
+    <string name="add">+</string>
+    <string name="change">please, input some information</string>
+</resources>
